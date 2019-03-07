@@ -9,8 +9,6 @@ What do you need?
 
 
 Original code belongs to @Traversy Media 
-This project is submitted here for my own personal reference as well as for others who require a quick access to the code.
-
-
+This project is submitted here for my own personal reference with a couple of my own edits
 
 
