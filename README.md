@@ -8,7 +8,6 @@ What do you need?
 4) Basic command line (I used the Mac Terminal, which is available in all OS X versions)
 
 
-Original code belongs to @Traversy Media 
-This project is submitted here for my own personal reference with a couple of my own edits
+This project is submitted here for my own personal reference with a few edits
 
 
